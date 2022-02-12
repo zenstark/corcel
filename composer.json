@@ -2,13 +2,13 @@
     "name": "zenstark/corcel",
     "replace": { "juniorgrossi/corcel": "self.version" },
     "description": "Use WordPress backend with Laravel or any PHP framework",
-    "homepage": "http://github.com/corcel/corcel",
+    "homepage": "http://github.com/zenstark/corcel",
     "license": "MIT",
     "authors": [
         {
-            "name": "Junior Grossi",
-            "email": "juniorgro@gmail.com",
-            "homepage": "http://jgrossi.com"
+            "name": "Anoop Naik",
+            "email": "anoopnaik2016@gmail.com",
+            "homepage": "http://anoopnaik.com"
         }
     ],
     "require": {
